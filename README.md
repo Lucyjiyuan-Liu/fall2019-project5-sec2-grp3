@@ -12,6 +12,8 @@ Term: Fall 2018
 	
 + Project summary: The aim of this study is to analyze NFL(National Football League) non-contact lower-limb injury data over 2 regular seasons, and to identify different player movements on different field surfaces, weather, positions and etc that may influence the risk of injury.
 
++ Data：All of our raw and processed data can be found use this link https://drive.google.com/drive/folders/1DMPNq9jNb3GpPvQCWpCI6mc_j2xGHEy3?usp=sharing (with LionMail).
+
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
